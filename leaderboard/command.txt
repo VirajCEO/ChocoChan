@@ -1,0 +1,1 @@
+ssh -i "ChocoChan.pem" ubuntu@ec2-3-104-124-124.ap-southeast-2.compute.amazonaws.com
